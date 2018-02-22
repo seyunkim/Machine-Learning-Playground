@@ -5,7 +5,9 @@ Practice Applying Logistic Regression and using Plot.ly as the visualization.
 
 View the notebook here:
 
-http://nbviewer.jupyter.org/github/seyunkim/Machine-Learning-Playground/blob/master/Logistic_Regression/Logistic%20Regression%20using%20Scikit-Learn%20and%20Plotly.ipynb
+Logistic Regression Notebook: https://goo.gl/zCDnTx
+
+K-Means Clustering Notebook: https://goo.gl/Wyj6BR
 
 
 
