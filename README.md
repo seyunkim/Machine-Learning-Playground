@@ -5,7 +5,7 @@ Practice Applying Logistic Regression and using Plot.ly as the visualization.
 
 View the notebook here:
 
-Logistic Regression Notebook: https://goo.gl/zCDnTx
+[Logistic Regression Notebook](https://goo.gl/zCDnTx)
 
 K-Means Clustering Notebook: https://goo.gl/Wyj6BR
 
