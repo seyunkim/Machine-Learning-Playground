@@ -7,7 +7,7 @@ View the notebook here:
 
 [Logistic Regression Notebook](https://goo.gl/zCDnTx)
 
-[K-Means Clustering Notebook] (https://goo.gl/Wyj6BR)
+[K-Means Clustering Notebook](https://goo.gl/Wyj6BR)
 
 [Starting Neural Networks with Keras](https://goo.gl/MJrZ23)
 
